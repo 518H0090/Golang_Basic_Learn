@@ -5,6 +5,12 @@ import (
 	"math"
 )
 
+/*
+	Quy tắc đặt tên chung là camel - khi chung package
+	nếu sử dụng trong nhiều package thì nên tường minh
+	muốn package ngoài sử dụng dc thì để viết hoa ví dụ NumberA
+*/
+
 const cConst = 10
 
 func main() {
