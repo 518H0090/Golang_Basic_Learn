@@ -1,0 +1,8 @@
+& - 2 giá trị 1 mới ra 1 còn lại ra 0 
+| - chỉ cần 1 trong 2 bit là 1 thì là 
+^ - 2 bit giống nhau ra 0 còn lại ra 1
+&^ - 2 bit 0 thì ra 1 còn lại ra 0
+
+<< - ví dụ 8 << 3 => 2^3 * 2^3 = 64
+>>  - ví dụ 8 >> 3 => 2^3 / 2^3 = 2^0 = 1
+
